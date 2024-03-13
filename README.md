@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: 
+  💻 Skills: 
   </br>
   </br> • Frontend: HTML; CSS; JavaScript; jQuery; Angular.
   </br> • Backend: Java; PHP; C; C++; SQL; Apis.
