@@ -1,21 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Desenvolvedora Fullstack com Nível Técnico em Desenvolvimento de Sistemas. Desenvolvo a mais de 1 ano e tenho experiência de estágio nos Estados Unidos como Desenvolvedora Fullstack para uma plataforma social que atinge mais de 2000 usuários em 50 organizações. Participo ativamente em trabalhos voluntários, desenvolvendo aplicações para ONGs, onde tenho contato com todo o ciclo de vida do desenvolvimento de software. Amo aprimorar minhas habilidades e aplicar meu conhecimento técnico para resolver problemas e trabalhar em projetos. 
+  Fullstack Developer with Technical Level in Systems Development. I have been developing for over 1 year and have internship experience in the United States as a Fullstack Developer for a social platform that reaches over 2000 users. I actively participate in volunteer work, developing applications for NGOs, where I have contact with the entire software life cycle. I love applying my technical knowledge to solve problems, work on projects and improve my skills.
 </p>
 
 <p align="left">
   💻 Linguagens: 
   </br>
-  </br>• Backend: Java; PHP; C; C++.
-  </br>• Frontend: HTML; CSS; JavaScript; jQuery; Angular.
-  </br>• Mobile: Android Native; React Native.
-  </br>• Banco de Dados: MySQL; SQL Server.
-  </br>• Lógica De Programação: Algoritmos; Estrutura Condicional/Dados/Repetição; Variáveis Indexadas; UML; Pseudocódigo.
+  </br> • Frontend: HTML; CSS; JavaScript; jQuery; Angular.
+  </br> • Backend: Java; PHP; C; C++; SQL; Apis.
+  </br> • Mobile: Android Native; React Native.
+  </br> • Database: MySQL; SQLServer; MongoDB
+  </br> • Techniques: POO; Code versioning; Responsiveness; Embedded systems; Robotics.
+  </br> • Design: UI/UX; Adobe Photoshop.
 </p>
 
 <p align="left">
-  🔗 Contato:
+  🔗 Contact me:
 </p>
 
 <p align="left">
