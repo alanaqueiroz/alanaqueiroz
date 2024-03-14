@@ -11,7 +11,7 @@
   </br> • Backend: Java; PHP; C; C++; SQL; Apis.
   </br> • Mobile: Android Native; React Native.
   </br> • Database: MySQL; SQLServer; MongoDB
-  </br> • Techniques: POO; Code Versioning; Responsiveness; Embedded systems; Robotics; Design: UI/UX; Adobe Photoshop.
+  </br> • Others: POO; Code Versioning; Responsiveness; Embedded systems; Robotics; Design: UI/UX; Adobe Photoshop.
 </p>
 
 <p align="left">
