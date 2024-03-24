@@ -3,22 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .container {
-      display: flex;
-      align-items: center;
-    }
-    .text {
-      flex: 1;
-    }
-  </style>
 </head>
 
 <body>
 
-<div class="container">
+<div style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;">
-  <div class="text">
+  <div style="margin-left: 20px;">
     <p align="left"> 
       Fullstack Developer with Technical Degree in Systems Development. I have been developing for over 1 year and have internship experience as a Fullstack Developer for a social platform that reaches over 2000 users. I actively participate in volunteer work, developing applications for NGOs. I love applying my knowledge to solve problems, work on projects and improve my skills.
     </p>
