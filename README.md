@@ -7,11 +7,11 @@
 <p align="left">
   💻 Linguagens: 
   </br>
-  </br>• Backend: Java; PHP; C; C++.
-  </br>• Frontend: HTML; CSS; JavaScript; jQuery; Angular.
+  </br>• Backend: Java; PHP; C; C++; SQL; API.
+  </br>• Frontend: HTML; CSS; JavaScript (jQuery, Angular).
   </br>• Mobile: Android Native; React Native.
-  </br>• Banco de Dados: MySQL; SQL Server.
-  </br>• Lógica De Programação: Algoritmos; Estrutura Condicional/Dados/Repetição; Variáveis Indexadas; UML; Pseudocódigo.
+  </br>• Banco de Dados: MySQL; SQL Server; MongoDB.
+  </br>• Other: Lógica De Programação; POO; Versionamento; Responsividade; Design UI/UX; Sistemas Embarcados; Robótica.
 </p>
 
 <p align="left">
