@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Fullstack Developer with Technical Degree in Systems Development. I have been developing for over 1 year and have internship experience as a Fullstack Developer for a social platform that reaches over 2000 users. I actively participate in volunteer work, developing applications for NGOs. I love applying my knowledge to solve problems, work on projects and improve my skills. 
+  Fullstack Developer with Technical Degree in Systems Development. I have been developing for over 1 year and have internship experience as a Fullstack Developer for a social platform that reaches over 2000 users. I actively participate in volunteer work, developing applications for NGOs. I love applying my knowledge to solve problems, work on projects and achieve goals.
 </p>
 
 <p align="left">
