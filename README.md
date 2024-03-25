@@ -10,8 +10,8 @@
   </br>• Backend: Java; PHP; C; C++; SQL; API.
   </br>• Frontend: HTML; CSS; JavaScript (jQuery, Angular).
   </br>• Mobile: Android Native; React Native.
-  </br>• Banco de Dados: MySQL; SQL Server; MongoDB.
-  </br>• Other: Lógica De Programação; POO; Versionamento; Responsividade; Design UI/UX; Sistemas Embarcados; Robótica.
+  </br>• Databases: MySQL; SQL Server; MongoDB.
+  </br>• Others: Programming logic; OOP; Versioning; Responsiveness; UI/UX design; Embedded systems; Robotics.
 </p>
 
 <p align="left">
