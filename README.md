@@ -16,6 +16,8 @@
 
 <p align="left">
   🔗 Contato:
+
+📧 alanaqueirozb@gmail.com
 </p>
 
 <p align="left">
