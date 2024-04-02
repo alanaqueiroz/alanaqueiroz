@@ -11,9 +11,9 @@
   </br>• Backend: Java; PHP; C; C++; SQL; API.
     </br>• Databases: MySQL; SQL Server; MongoDB.
   </br>• Mobile: Android Native; React Native.
-  </br>• Practices: OOP; Clean Code; Programming logic; Algorithms; Data structure; Versioning; UML; Frameworks; Responsiveness; UI/UX Design; Embedded systems; Robotics.
+  </br>• Practices: OOP; Clean Code; Programming logic; Algorithms; Data structure; Versioning; UML; Frameworks; Responsiveness; UI/UX Design; Embedded Systems.
 </p>
-
+</br>
 <p align="left">
 
 [![Linkedin Badge](https://img.shields.io/badge/-in/alanaqueirozb-6940c5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/alanaqueirozb/) 
