@@ -7,10 +7,10 @@
 </p>
 
 <p align="left">
-  </br>• Frontend: HTML; CSS; JavaScript; Vue.js, Bootstrap; Angular, jQuery.
-  </br>• Backend: PHP; Java; C# .Net; W; C++; SQL; JSON; API.
-  </br>• Database: MySQL; SQLServer; MongoDB.
-  </br>• Mobile: Android NDK Java; React native; Flutter; Dart.
+  </br>• Frontend: HTML, CSS, Javascript, Bootstrap, Angular, Vue.js, jQuery.
+  </br>• Backend: Java, C#, .NET, C, C++, PHP, Python, SQL, API.
+  </br>• Database: MySQL, SQL Server, MongoDB.
+  </br>• Mobile: Dart, Flutter, React Native, Android Java.
   </br>• Techniques: OOP; Clean code; Programming logic; Algorithms; Data structure; UML; Versioning; Responsiveness; UI/UX Design; Cybersecurity; Networks and protocols; Embedded systems; Computing; Software and hardware; Operational systems; Microsoft office; Photoshop; Illustration; Editing.
 </p>
 
