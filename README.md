@@ -11,7 +11,7 @@
   </br>• Backend: PHP; Java; C# .Net; W; C++; SQL; JSON; API.
   </br>• Database: MySQL; SQLServer; MongoDB.
   </br>• Mobile: Android NDK Java; React native; Flutter; Dart.
-  </br>• Techniques: OOP; Clean code; Programming logic; Algorithms; Data structure; UML; Versioning; Responsiveness; UI/UX Design; Cybersecurity; Networks and protocols; Embedded systems; Computing; Software and hardware; Operational systems; Microsoft office; Photoshop; Illustration; Edition.
+  </br>• Techniques: OOP; Clean code; Programming logic; Algorithms; Data structure; UML; Versioning; Responsiveness; UI/UX Design; Cybersecurity; Networks and protocols; Embedded systems; Computing; Software and hardware; Operational systems; Microsoft office; Photoshop; Illustration; Editing.
 </p>
 
 <p align="left">
