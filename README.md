@@ -3,15 +3,15 @@
 <img src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  I'm a Fullstack Developer, developing systems for over 1 year. I have Technical Degree in Systems Development and I have internship experience as a Fullstack Developer for a social platform that reaches more than 2,000 users. I actively participate in volunteer work, developing applications for NGOs. I love applying my knowledge to solve problems and contribute to challenging projects.
+  I'm a Fullstack Developer with over a year of experience in systems development. I have a Technical degree in Systems Development and a Cisco certificate in Endpoint Security. Currently, I am interning as a Fullstack Developer and I have volunteer experience developing applications for NGOs. I love applying my knowledge to solving problems and collaborating on challenging projects.
 </p>
 
 <p align="left">
-  </br>• Frontend: HTML, CSS, Javascript, Bootstrap, Angular, Vue.js, jQuery.
-  </br>• Backend: Java, C#, .NET, C, C++, PHP, Python, SQL, API.
-  </br>• Database: MySQL, SQL Server, MongoDB.
-  </br>• Mobile: Dart, Flutter, React Native, Android Java.
-  </br>• Techniques: OOP; Clean code; Programming logic; Algorithms; Data structure; UML; Versioning; Responsiveness; UI/UX Design; Cybersecurity; Networks and protocols; Embedded systems; Computing; Software and hardware; Operational systems; Microsoft office; Photoshop; Illustration; Editing.
+  </br> • Frontend: HTML, CSS, JavaScript, Bootstrap, Materialize, jQuery, Angular, Vue.js, Cordova.
+  </br> • Backend: PHP, Java, C#, .NET, Python, SQL, API, C, C++.
+  </br> • Banco de Dados: SQL Server, MySQL, MongoDB.
+  </br> • Mobile: Flutter, Dart, React Native, Android Java.
+  </br> • Techniques: Programming logic, Data structure, OOP, Clean code, Versioning, Responsivenesse, UI/UX Design, Cybersecurity, Embedded systems, Computing, UML, Figma, Photoshop, Illustration, Editing.
 </p>
 
 <p align="left">
