@@ -7,8 +7,8 @@
 </p>
 
 <p align="left">
-  </br> • Frontend: HTML, CSS, JavaScript, Bootstrap, Materialize, jQuery, Angular, Vue.js, Cordova.
-  </br> • Backend: PHP, Java, C#, .NET, Python, SQL, API, C, C++.
+  </br> • Frontend: HTML, CSS, JavaScript, Angular, Vue.js, jQuery, Bootstrap, Materialize, Cordova.
+  </br> • Backend: PHP, SQL, API, Java, Python, C# e .NET, C, C++.
   </br> • Banco de Dados: SQL Server, MySQL, MongoDB.
   </br> • Mobile: Flutter, Dart, React Native, Android Java.
   </br> • Techniques: Programming logic, Data structure, OOP, Clean code, Versioning, Responsivenesse, UI/UX Design, Cybersecurity, Embedded systems, Computing, UML.
