@@ -3,7 +3,7 @@
 <img src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  I'm a Fullstack Developer with over a year of experience in systems development. I have a Technical degree in Systems Development and a Cisco certificate in Endpoint Security. Currently, I am interning as a Fullstack Developer and I have volunteer experience developing applications for NGOs. I love applying my knowledge to solving problems and collaborating on challenging projects.
+Sou uma desenvolvedora comprometida com a excelência técnica e a inovação, com mais de um ano de experiência em linguagens de programação, administração de bancos de dados e estilização de páginas. Tenho uma sólida vivência em desenvolvimento de sistemas por meio de freelances, voluntariados, estudos acadêmicos e projetos paralelos. Minhas experiências abrangem a criação, otimização e manutenção de código, bem como a administração de bancos de dados e o desenvolvimento de arquiteturas eficientes para interfaces intuitivas e estilizadas. Com formação técnica em Desenvolvimento de Sistemas, estou constantemente expandindo minha base teórica e habilidades técnicas. Me dedico a aplicar meu conhecimento para resolver problemas e contribuir em projetos desafiadores, sempre trazendo ideias inovadoras.
 </p>
 
 <p align="left">
