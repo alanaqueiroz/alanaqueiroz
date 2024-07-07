@@ -3,7 +3,7 @@
 <img src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-I am a developer committed to technical excellence and innovation. I have over a year of experience in programming languages, database administration, and web design. I have a solid background in systems development through freelance work, volunteer work, academic studies, and side projects. My experience includes creating, optimizing, and maintaining code, architecture, intuitive and stylish interfaces, and database administration. With a technical background in Systems Development, I am constantly expanding my theoretical base and technical skills. I am dedicated to applying my knowledge to solve problems and contribute to challenging projects, always bringing innovative ideas.
+Developer with over a year of experience, committed to technical excellence and innovation. My experience includes programming languages, database administration, and page styling. I currently work as a full stack development intern at a social platform in the United States that serves over 2,000 users. I voluntarily develop applications for NGOs, demonstrating my commitment to using technology for social causes. With a technical background in Systems Development, I am constantly expanding my theoretical base and technical skills through freelance work, volunteering, academic studies, and side projects. I am dedicated to applying my knowledge to solve problems and contribute to challenging projects, always bringing innovative ideas.
 </p>
 
 <p align="left">
