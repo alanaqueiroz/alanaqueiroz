@@ -10,7 +10,7 @@ Developer with over a year of experience, committed to technical excellence and 
 </br> • Frontend: HTML, CSS, Materialize, JavaScript, Bootstrap, Angular, Vue.js, jQuery, Apache Cordova.
 </br> • Backend: PHP, SQL, API's, C# e .NET, Java, Python, C, C++. 
 </br> • Mobile: Dart, Flutter, React Native, Android Java.
-</br> • Banco de Dados: SQL Server, MySQL, MongoDB.
+</br> • Databases: SQL Server, MySQL, MongoDB.
 </br> • Techniques: Programming logic, Data structure, OOP, Clean code, Versioning, UI/UX Design, Cybersecurity, Embedded systems, Computing, UML.
 </p>
 
