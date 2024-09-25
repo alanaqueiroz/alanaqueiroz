@@ -3,7 +3,9 @@
 <img src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Developer with over a year of experience, committed to technical excellence and innovation. My experience includes programming languages, database administration, and page styling. I currently work as a full stack development intern at a social platform in the United States that serves over 2,000 users. I voluntarily develop applications for NGOs, demonstrating my commitment to using technology for social causes. With a technical background in Systems Development, I am constantly expanding my theoretical base and technical skills through freelance work, volunteering, academic studies, and side projects. I am dedicated to applying my knowledge to solve problems and contribute to challenging projects, always bringing innovative ideas.
+About me: I am a developer with solid experience in software development, always focused on innovation and technical excellence. I have expertise in creating web and mobile solutions, with skills in programming, page styling, and database management. I am constantly dedicated to applying my knowledge to solve problems and turn ideas into concrete results.
+
+Education: Pursuing a degree in Databases and a specialization in Project Management; completed a Technical Degree in Systems Development.
 </p>
 
 <p align="left">
