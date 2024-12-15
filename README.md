@@ -3,7 +3,7 @@
 <img src="https://baltaio.blob.core.windows.net/static/images/dark/home-hero-illustration.svg" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Possuo mais de dois anos de experiência em desenvolvimento de software, com maior expertise em PHP, C# e .NET. Minha trajetória inclui a criação de aplicações web e mobile por meio de freelances, trabalhos voluntários, projetos acadêmicos e iniciativas pessoais. Tenho sólida vivência na concepção, otimização e manutenção de códigos e arquiteturas, administração de bancos de dados e construção de interfaces estilizadas. Atualmente, trabalho como programadora PHP e, em minha carreira, colaborei com uma empresa SaaS dos Estados Unidos, desenvolvendo soluções web e mobile utilizadas por mais de 2.000 usuários. Sou movida por uma curiosidade insaciável e busco constantemente aprimorar minhas habilidades para criar produtos de alto impacto e valor.
+Possuo mais de dois anos de experiência em desenvolvimento de software, com maior expertise em PHP, C# e .NET. Minha trajetória inclui a criação de aplicações web e mobile por meio de estágios, trabalhos voluntários, freelances, projetos acadêmicos e iniciativas pessoais. Tenho sólida vivência na concepção, otimização e manutenção de códigos e arquiteturas, administração de bancos de dados e construção de interfaces estilizadas. Atualmente, trabalho como programadora PHP e, em minha carreira, colaborei com uma empresa SaaS dos Estados Unidos, desenvolvendo soluções web e mobile utilizadas por mais de 2.000 usuários. Sou movida por uma curiosidade insaciável e busco constantemente aprimorar minhas habilidades para criar produtos de alto impacto e valor.
 </p>
 
 <p align="left">
