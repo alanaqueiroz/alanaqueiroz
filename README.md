@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">👩🏻‍💻 Alana Queiroz | Full Stack Developer</h1>
+# 👩🏻‍💻 Alana Queiroz | Full Stack Developer
 
 ```
 💻 Mais de 2 anos de experiência em desenvolvimento de software, com foco em PHP, C# e .NET. 
