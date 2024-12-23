@@ -1,17 +1,17 @@
-# 👩🏻‍💻 Alana Queiroz | Full Stack Developer
+# 👩🏻‍💻 Alana Queiroz
 
 ```
-💻 Mais de 2 anos de experiência em desenvolvimento de software, com foco em PHP, C# e .NET. 
+💻 Mais de 2 anos de experiência em desenvolvimento de software, com ênfase em PHP, C# e .NET. 
 
 🔧 Desenvolvimento e manutenção de códigos, criação de interfaces e administração de bancos de dados.
 
-💼 Atualmente trabalhando como Programadora PHP.
+💼 Atualmente trabalho como Programadora PHP, desenvolvendo sistemas web em uma assessoria de cobrança.
 
 📚 Graduando em Banco de Dados na FATEC. 
 
 🎓 Técnica em Desenvolvimento de Sistemas e Especialista em Gestão de Projetos pela ETEC.
 
-🌟 Busco constantemente aprimorar minhas habilidades para criar produtos de alto impacto e valor.
+🌟 Busco aprimorar minhas habilidades continuamente para criar produtos de alto impacto e valor.
 ```
 
 ---
