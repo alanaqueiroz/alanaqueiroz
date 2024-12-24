@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Alana Queiroz
 
 ```
-💻 Desenvolvedora Full Stack com mais de 2 anos de experiência em desenvolvimento de software, com ênfase em PHP, C# e .NET. 
+💻 Desenvolvedora Full Stack com mais de 2 anos de experiência, com foco em PHP, C# e .NET. 
 
 🔧 Desenvolvimento e manutenção de códigos, criação de interfaces e administração de bancos de dados.
 
