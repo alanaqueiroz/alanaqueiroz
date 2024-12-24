@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Alana Queiroz
 
 ```
-💻 Mais de 2 anos de experiência em desenvolvimento de software, com ênfase em PHP, C# e .NET. 
+💻 Desenvolvedora Full Stack com mais de 2 anos de experiência em desenvolvimento de software, com ênfase em PHP, C# e .NET. 
 
 🔧 Desenvolvimento e manutenção de códigos, criação de interfaces e administração de bancos de dados.
 
@@ -20,24 +20,24 @@
 ![PHP](https://img.shields.io/badge/-PHP-2e2e2e?style=flat&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-2e2e2e?style=flat&logo=Laravel)
 ![.NET](https://img.shields.io/badge/-.NET-2e2e2e?style=flat&logo=dotnet)
-![C#](https://img.shields.io/badge/-C_Sharp-333333?style=flat&logo=C%2B%2B&logoColor=68217A)
+![C#](https://img.shields.io/badge/C%23-333333.svg?style=flat&logo=C%2B%2B&logoColor=68217A)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=F80000)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
-![API](https://img.shields.io/badge/-API-333333?style=flat)
+![API](https://img.shields.io/badge/-API-333333?style=flat&logo=postman)
 
 - **Frontend**:
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
-![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-333333?style=flat)
-![Apache Cordova](https://img.shields.io/badge/-Apache_Cordova-333333?style=flat)
-![Windows Forms](https://img.shields.io/badge/-Windows_Forms-333333?style=flat)
+![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-333333?style=flat&logo=material-design)
+![Apache Cordova](https://img.shields.io/badge/-Apache_Cordova-333333?style=flat&logo=apachecordova)
+![WinForms](https://img.shields.io/badge/-WinForms-333333?style=flat)
 
 - **Mobile**:
 ![React Native](https://img.shields.io/badge/-Java%20Android-333333?style=flat&logo=android)
@@ -55,16 +55,16 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat)
-![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat)
+![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrumalliance)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
-![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat)
+![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=githubactions)
 
 - **Práticas**:
-![Orientação a Objetos](https://img.shields.io/badge/-Orientação_a_Objetos-333333?style=flat)
-![Estrutura de dados e Algoritmos](https://img.shields.io/badge/-Estrutura_de_dados_e_Algoritmos-333333?style=flat)
+![Orientação a Objetos](https://img.shields.io/badge/-Orientação_a_Objetos-333333?style=flat&logo=codeforces)
+![Estrutura de dados e Algoritmos](https://img.shields.io/badge/-Estrutura_de_dados_e_Algoritmos-333333?style=flat&logo=leetcode)
 ![Clean Code](https://img.shields.io/badge/-Clean_Code-333333?style=flat)
-![Versionamento](https://img.shields.io/badge/-Versionamento-333333?style=flat)
+![Versionamento](https://img.shields.io/badge/-Versionamento-333333?style=flat&logo=git)
 ![UML](https://img.shields.io/badge/-UML-333333?style=flat&logo=uml)
 ![JDBC](https://img.shields.io/badge/-JDBC-333333?style=flat)
 ![SaaS](https://img.shields.io/badge/-SaaS-333333?style=flat)
