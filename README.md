@@ -3,7 +3,7 @@
 ```
 💻 Desenvolvedora Full Stack com mais de 2 anos de experiência, com foco em PHP, C# e .NET. 
 
-🔧 Desenvolvimento e manutenção de códigos, criação de interfaces e administração de bancos de dados.
+🛠️ Desenvolvimento e manutenção de códigos, criação de interfaces e administração de bancos de dados.
 
 💼 Atualmente trabalho como Programadora PHP, desenvolvendo sistemas web em uma assessoria de cobrança.
 
