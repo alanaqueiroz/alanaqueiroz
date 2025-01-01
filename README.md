@@ -30,7 +30,7 @@
 
 ---
 
-<h3><strong>Skills:</strong></h3>
+<h3><strong>Tecnologias:</strong></h3>
 
 - **Backend**:
 ![PHP](https://img.shields.io/badge/-PHP-2e2e2e?style=flat&logo=PHP)
