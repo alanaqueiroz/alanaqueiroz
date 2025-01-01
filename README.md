@@ -21,9 +21,7 @@
 
 💼 Atualmente, sou Programadora PHP, desenvolvendo sistemas web para uma assessoria de cobrança.
 
-📚 Estudante de Banco de Dados na FATEC.
-
-🎓 Formação Técnica em Desenvolvimento de Sistemas e Especialização em Gestão de Projetos pela ETEC.
+🎓 Estudante de Banco de Dados na FATEC, técnico em Desenvolvimento de Sistemas e especialista em Gestão de Projetos pela ETEC.
 
 🚀 Comprometida em aprimorar constantemente minhas habilidades para criar soluções de alto impacto e valor.
 ```
