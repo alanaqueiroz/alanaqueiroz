@@ -34,7 +34,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-2e2e2e?style=flat&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-2e2e2e?style=flat&logo=Laravel)
 ![.NET](https://img.shields.io/badge/-.NET-2e2e2e?style=flat&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-333333.svg?style=flat&logo=C%2B%2B&logoColor=68217A)
+![C#](https://img.shields.io/badge/C%23-333333.svg?style=flat&logo=C%2B%2B&logoColor=9a4993)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=F80000)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
