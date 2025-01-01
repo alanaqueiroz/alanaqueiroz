@@ -3,7 +3,7 @@
 <div align="center">
 <p>
 
-[![Linkedin](https://img.shields.io/badge/-in/alanaqueirozb-6940c5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/alanaqueirozb/) 
+[![Linkedin](https://img.shields.io/badge/-linkedin.com/in/alanaqueirozb-6940c5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/alanaqueirozb/) 
 [![Gmail](https://img.shields.io/badge/-alanaqueirozb@gmail.com-6940c5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanaqueirozb@gmail.com)](mailto:alanaqueirozb@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-14991074570-6940c5?style=flat-square&logo=whatsapp&logoColor=white&link=http://wa.me/14991074570)](http://wa.me/5514991074570)
 
