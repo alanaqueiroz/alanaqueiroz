@@ -15,7 +15,7 @@
 ```
 ✨ Sempre fui fascinada por ciência e tecnologia, especialmente pela computação, área que escolhi como carreira.
 
-🎓 Cursando Banco de Dados (FATEC), Técnica em Desenvolvimento de Sistemas (ETEC) e Especialista em Gestão de Projetos (ETEC).
+🎓 Cursando Banco de Dados (FATEC). Técnica em Desenvolvimento de Sistemas (ETEC); Especialista em Gestão de Projetos (ETEC).
 
 💻 Desenvolvedora Full Stack há mais de 2 anos, focada em PHP, C# e .NET.
 
