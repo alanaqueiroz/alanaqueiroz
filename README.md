@@ -13,7 +13,7 @@
 <h3><strong>Sobre:</strong></h3>
 
 ```
-✨ Sempre fui fascinada por ciência e tecnologia, especialmente pela computação, área que escolhi como carreira.
+✨ Sempre fui fascinada por tecnologia, especialmente pela computação, área que escolhi como carreira.
 
 🎓 Cursando Banco de Dados (FATEC). Técnica em Desenvolvimento de Sistemas, e Especialista em Gestão de Projetos (ETEC).
 
