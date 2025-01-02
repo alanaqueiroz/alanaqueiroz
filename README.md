@@ -10,7 +10,7 @@
 </p>
 </div>
 
-<h3><strong>Sobre:</strong></h3>
+<h3><strong>✉️ Sobre</strong></h3>
 
 ```
 ✨ Sempre fui fascinada por tecnologia, especialmente pela computação, área que escolhi como carreira.
@@ -28,7 +28,7 @@
 
 ---
 
-<h3><strong>Tecnologias:</strong></h3>
+<h3><strong>🌐 Tecnologias</strong></h3>
 
 - **Backend**:
 ![PHP](https://img.shields.io/badge/-PHP-2e2e2e?style=flat&logo=PHP)
