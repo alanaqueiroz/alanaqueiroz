@@ -17,11 +17,11 @@
 
 🎓 Cursando Banco de Dados (FATEC). Técnica em Desenvolvimento de Sistemas, e Especialista em Gestão de Projetos (ETEC).
 
-💻 Desenvolvedora Full Stack há mais de 2 anos, focada em PHP, C# e .NET.
+💻 Desenvolvedora Full Stack há mais de 2 anos, focada principalmente PHP, C# e .NET.
 
 💼 Atuo como Programadora PHP, desenvolvendo sistemas web em uma assessoria de cobrança.
 
-🛠️ Realizo desenvolvimento e manutenção de sistemas, criação de interfaces e gerenciamento de bancos de dados.
+🛠️ Realizo desenvolvimento, manutenção e otimização de sistemas, criação de interfaces e gerenciamento de bancos de dados.
 
 🚀 Comprometida em aprimorar constantemente minhas habilidades para criar soluções de alto impacto e valor.
 ```
