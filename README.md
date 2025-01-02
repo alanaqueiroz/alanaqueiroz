@@ -30,6 +30,8 @@
 
 <h3><strong>Tecnologias:</strong></h3>
 
+<h3><strong>Tecnologias:</strong></h3>
+
 - **Backend**:
 ![PHP](https://img.shields.io/badge/-PHP-2e2e2e?style=flat&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-2e2e2e?style=flat&logo=Laravel)
@@ -40,7 +42,7 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
-![API](https://img.shields.io/badge/-API-333333?style=flat&logo=postman)
+![Integração/Criação de APIs](https://img.shields.io/badge/-Integração/Criação_de_APIs-333333?style=flat&logo=postman)
 
 - **Frontend**:
 ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -54,7 +56,7 @@
 ![WinForms](https://img.shields.io/badge/-WinForms-333333?style=flat)
 
 - **Mobile**:
-![React Native](https://img.shields.io/badge/-Java%20Android-333333?style=flat&logo=android)
+![Java Android](https://img.shields.io/badge/-Java%20Android-333333?style=flat&logo=android)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=00579E)
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter&logoColor=13B9FD)
@@ -63,25 +65,28 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-333333?style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 - **DevOps**:
+![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrumalliance)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat)
-![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrumalliance)
+![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=githubactions)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
-![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=githubactions)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat)
 
 - **Práticas**:
 ![Orientação a Objetos](https://img.shields.io/badge/-Orientação_a_Objetos-333333?style=flat&logo=codeforces)
 ![Estrutura de dados e Algoritmos](https://img.shields.io/badge/-Estrutura_de_dados_e_Algoritmos-333333?style=flat&logo=leetcode)
-![Clean Code](https://img.shields.io/badge/-Clean_Code-333333?style=flat)
 ![Versionamento](https://img.shields.io/badge/-Versionamento-333333?style=flat&logo=git)
-![UML](https://img.shields.io/badge/-UML-333333?style=flat&logo=uml)
-![JDBC](https://img.shields.io/badge/-JDBC-333333?style=flat)
+![Metodologias Ágeis](https://img.shields.io/badge/-Metodologias_Ágeis-333333?style=flat)
+![Virtualização](https://img.shields.io/badge/-Virtualização-333333?style=flat)
+![Observabilidade](https://img.shields.io/badge/-Observabilidade-333333?style=flat)
+![IaaS](https://img.shields.io/badge/-IaaS-333333?style=flat)
 ![SaaS](https://img.shields.io/badge/-SaaS-333333?style=flat)
+![Clean Code](https://img.shields.io/badge/-Clean_Code-333333?style=flat)
+![UML](https://img.shields.io/badge/-UML-333333?style=flat&logo=uml)
 ![Cibersegurança](https://img.shields.io/badge/-Cibersegurança-333333?style=flat)
 ![Sistemas Embarcados](https://img.shields.io/badge/-Sistemas_Embarcados-333333?style=flat)
 ![UI/UX Design](https://img.shields.io/badge/-UI/UX_Design-333333?style=flat)
