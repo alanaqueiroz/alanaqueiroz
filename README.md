@@ -21,7 +21,7 @@
 
 💼 Atuo como Programadora PHP, desenvolvendo sistemas web em uma assessoria de cobrança.
 
-🛠️ Realizo desenvolvimento, manutenção e otimização de sistemas, criação de interfaces e gerenciamento de bancos de dados.
+🛠️ Realizo desenvolvimento, manutenção e integração de sistemas, criação de interfaces e gerenciamento de bancos de dados.
 
 🚀 Comprometida em aprimorar constantemente minhas habilidades para criar soluções de alto impacto e valor.
 ```
