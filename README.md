@@ -94,7 +94,6 @@
 </p>
 
 ---
-
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaqueiroz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&locale=pt-br"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaqueiroz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&locale=pt-br"/>
 </div>
