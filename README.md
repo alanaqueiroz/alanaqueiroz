@@ -1,29 +1,28 @@
-<h1 align="center">👩🏻‍💻 Alana Queiroz</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> Alana Queiroz</h1>
 
 <div align="center">
 <p>
 
-[![Linkedin](https://img.shields.io/badge/-linkedin.com/in/alanaqueirozb-6940c5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/alanaqueirozb/) 
-[![Gmail](https://img.shields.io/badge/-alanaqueirozb@gmail.com-6940c5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanaqueirozb@gmail.com)](mailto:alanaqueirozb@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-14991074570-6940c5?style=flat-square&logo=whatsapp&logoColor=white&link=http://wa.me/14991074570)](http://wa.me/5514991074570)
+**`Full Stack Developer`**
 
+[![Linkedin](https://img.shields.io/badge/-in/alanaqueirozb-6940c5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alanaqueirozb/) 
+[![Gmail](https://img.shields.io/badge/-alanaqueirozb@gmail.com-6940c5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alanaqueirozb@gmail.com)](mailto:alanaqueirozb@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-5514991074570-6940c5?style=flat-square&logo=whatsapp&logoColor=white)](http://wa.me/5514991074570)
 </p>
 </div>
 
 <h3><strong>✉️ Sobre</strong></h3>
 
 ```
-✨ Sempre fui fascinada por tecnologia, especialmente pela computação, área que escolhi como carreira.
+✨ Sempre fui fascinada por computação, área que escolhi para construir minha carreira.
 
 🎓 Cursando Banco de Dados (FATEC). Técnica em Desenvolvimento de Sistemas, e Especialista em Gestão de Projetos (ETEC).
 
-💻 Desenvolvedora Full Stack há mais de 2 anos, focada principalmente PHP, C# e .NET.
+💻 Atuo como Programadora PHP com mais de 2 anos de experiência em desenvolvimento de software, focada em PHP, C# e .NET.
 
-💼 Atuo como Programadora PHP, desenvolvendo sistemas web em uma assessoria de cobrança.
+🛠️ Realizo desenvolvimento, manutenção e otimização de sistemas, criação de interfaces e gerenciamento de bancos de dados.
 
-🛠️ Realizo desenvolvimento, manutenção e integração de sistemas, criação de interfaces e gerenciamento de bancos de dados.
-
-🚀 Comprometida em aprimorar constantemente minhas habilidades para criar soluções de alto impacto e valor.
+🚀 Comprometida em aprimorar continuamente minhas habilidades para criar soluções de alto impacto e valor.
 ```
 
 ---
@@ -40,7 +39,7 @@
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
-![Integração/Criação de APIs](https://img.shields.io/badge/-Integração/Criação_de_APIs-333333?style=flat&logo=postman)
+![Integração com API](https://img.shields.io/badge/-Integração_com_APIs-333333?style=flat&logo=postman)
 
 - **Frontend**:
 ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -73,6 +72,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat)
+![Grafana](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=linux)
+
 
 - **Práticas**:
 ![Orientação a Objetos](https://img.shields.io/badge/-Orientação_a_Objetos-333333?style=flat&logo=codeforces)
@@ -95,5 +96,5 @@
 ---
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaqueiroz&layout=compact&theme=midnight-purple&locale=pt-br"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaqueiroz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&locale=pt-br"/>
 </div>
