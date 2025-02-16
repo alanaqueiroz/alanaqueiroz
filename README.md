@@ -72,7 +72,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat)
-![Grafana](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
 
 - **Práticas**:
@@ -94,6 +94,40 @@
 </p>
 
 ---
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaqueiroz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117&locale=pt-br"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaqueiroz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117"/>
 </div>
+
+</br>
+
+<details>
+  <summary>📃 Resume</summary>
+
+## Education
+
+- 📖 **Major in Database**\
+📆 2024 - 2027\
+📍 **FATEC - São Paulo State Technological College** - Brazil
+
+- 📖 **Specialization in Projects Management**\
+📆 2024 - 2024\
+📍 **ETEC - São Paulo State Technical School** - Brazil
+
+- 📖 **Technical degree in Systems Development**\
+📆 2023 - 2024\
+📍 **ETEC - São Paulo State Technical School** - Brazil
+
+## Experience
+
+- 👨‍💻 **Software Developer | PHP - JavaScript**\
+📆 dec/2024 - Present\
+📍 **HCosta** - Brazil
+
+- 👨‍💻 **Full Stack Developer | C# - .NET - JavaScript**\
+📆 sep/2024 - nov/2024\
+📍 **Aucom Informática** - Brazil
+
+- 👨‍💻 **Full Stack Developer | JavaScript - React Native**\
+📆 nov/2023 - sep/2024\
+📍 **ENGAGEathon** - Philadelphia, United States
